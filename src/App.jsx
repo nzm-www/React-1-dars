@@ -52,6 +52,8 @@ function App() {
             </span>
           </div>
         </div>
+        <hr />
+
         <div className="container">
           <div className="hederbuton">
             <div className="allselect">
@@ -233,39 +235,46 @@ function App() {
               <div>
                 <i id="iconcs" class="fa-solid fa-location-dot"></i>
                 <span>
-
-                <h3>Populer di dekatmu</h3>
-                <p>
-                  Tempat pariwisata yang populer <br /> dan pasti dikenal semua
-                  orang didekatmu
-                </p>
+                  <h3>Populer di dekatmu</h3>
+                  <p>
+                    Tempat pariwisata yang populer <br /> dan pasti dikenal
+                    semua orang didekatmu
+                  </p>
                 </span>
               </div>
               <div>
                 <div>
                   <i id="iconcs" class="fa-solid fa-heart"></i>
                   <span>
-
-                  <h3>Favorit di dekatmu</h3>
-                  <p>
-                    Tempat favorit dan disukai semua <br /> orang orang di
-                    sekitar daerah kamu
-                  </p>
+                    <h3>Favorit di dekatmu</h3>
+                    <p>
+                      Tempat favorit dan disukai semua <br /> orang orang di
+                      sekitar daerah kamu
+                    </p>
                   </span>
                 </div>
               </div>
               <div>
                 <i id="iconcs" class="fa-solid fa-users"></i>
                 <span>
-
-                <h3>Ramai di didekatmu</h3>
-                <p>
-                  Spot yang paling ramai dikunjungi <br /> para warga sekaligus
-                  para wisatawan
-                </p>
+                  <h3>Ramai di didekatmu</h3>
+                  <p>
+                    Spot yang paling ramai dikunjungi <br /> para warga
+                    sekaligus para wisatawan
+                  </p>
                 </span>
               </div>
             </div>
+          </div>
+        </section>
+        <section>
+          <div className="container">
+            <h3 className="h333">MENGENAL DESTINIZE</h3>
+            <span className="imgspan">
+              <h2>🖼• Galeri Pariwisata & Blog Travel </h2>
+              <button>Lihat semua →</button>
+            </span>
+            <div></div>
           </div>
         </section>
       </main>

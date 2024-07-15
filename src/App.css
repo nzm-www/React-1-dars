@@ -459,3 +459,7 @@
   letter-spacing: -0.55px;
   text-align: left;
 }
+hr {
+  border: 1px solid rgb(223, 223, 224);
+  margin-top: 20px;
+}
